@@ -10,6 +10,8 @@ the bruteforce section give you an option to use defualt password list or choosi
 MITM - Man In The Middle - sniffing into the victim network and listening on the traffic that walk through 
 when using MITM at the end of the script i recommend to run the script again and chose the stop ip forward 
 
+
+The script save a log to notice when you attack and who you attack 
 run my script by typing at the console 
 
 
